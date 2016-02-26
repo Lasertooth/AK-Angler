@@ -16,7 +16,7 @@ DEFCONFIG="ak_angler_defconfig"
 KERNEL_DIR=`pwd`
 RESOURCE_DIR="$KERNEL_DIR/.."
 ANYKERNEL_DIR="$RESOURCE_DIR/AK-Angler-AnyKernel2"
-TOOLCHAIN_DIR="/run/media/ak/ak-android/kernel"
+TOOLCHAIN_DIR="/home/ak/android"
 
 # Kernel Details
 BASE_AK_VER="AK"
