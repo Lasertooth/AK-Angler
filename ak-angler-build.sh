@@ -20,7 +20,7 @@ TOOLCHAIN_DIR="/home/ak/android"
 
 # Kernel Details
 BASE_AK_VER="AK"
-VER=".047.ANGLER.NET-HUNTER"
+VER=".048.ANGLER.NET-HUNTER"
 AK_VER="$BASE_AK_VER$VER"
 
 # Vars
